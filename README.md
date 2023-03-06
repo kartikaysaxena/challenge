@@ -3,7 +3,7 @@
 
 
 
- Regarding the Code Challenge, I have made an app using JavaScript, Node.JS and its libraries mainly EJS, nodemon, method-Override and mongoose. I have implemented RESTful routes and used Mongodb as a database.
+ Regarding the Code Challenge, I have made an app using JavaScript, Node.JS and its libraries mainly EJS, nodemon, method-Override and mongoose. I have implemented RESTful routes and used Mongodb as a database. It is a CRUD application, also i have implemented search option in which one can search and get the result on the basis of the name of entry. I can add more filters to the search if you want.
 
 
 ## How to run
