@@ -1,0 +1,23 @@
+[33m[nodemon] 2.0.21[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,json[39m
+[32m[nodemon] starting `node test.js`[39m
+LISTENING ON PORT 3000
+connected
+[33m[nodemon] 2.0.21[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,json[39m
+[32m[nodemon] starting `node test.js`[39m
+LISTENING ON PORT 3000
+connected
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[33m[nodemon] 2.0.21[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,json[39m
+[32m[nodemon] starting `node test.js`[39m
+LISTENING ON PORT 3000
+connected
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
